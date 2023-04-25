@@ -1,0 +1,10 @@
+2023-04-23T17:43:22+00:00 CRITICAL Cannot redeclare min_funktion() (previously declared in /Applications/MAMP/htdocs/WP-lektion2/wp-content/themes/labb2/functions.php:4) in /Applications/MAMP/htdocs/WP-lektion2/wp-content/themes/labb2/functions.php on line 8
+
+2023-04-23T18:33:44+00:00 CRITICAL Uncaught Error: Call to undefined function ge_header() in /Applications/MAMP/htdocs/WP-lektion2/wp-content/themes/labb2/woocommerce/single-product.php:23
+Stack trace:
+#0 /Applications/MAMP/htdocs/WP-lektion2/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/WP-lektion2/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/WP-lektion2/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/WP-lektion2/wp-content/themes/labb2/woocommerce/single-product.php on line 23
+

@@ -1,0 +1,12 @@
+2023-04-18T09:36:18+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-04-18T09:36:18+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-04-18T09:36:53+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-04-18T09:38:52+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-04-18T09:41:07+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-04-18T09:41:50+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: hit injectAddToCartEvent
+2023-04-18T09:41:50+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: Missing option "access_token"
+2023-04-18T10:04:49+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-04-18T10:04:49+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-04-18T10:05:11+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-04-18T10:07:10+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-04-18T10:07:27+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync

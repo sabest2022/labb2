@@ -1,0 +1,10 @@
+2023-04-20T07:17:37+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 835584 bytes) in /Applications/MAMP/htdocs/WP-lektion2/wp-includes/class-wpdb.php on line 2431
+
+2023-04-20T11:56:55+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /Applications/MAMP/htdocs/WP-lektion2/wp-admin/includes/post.php on line 130
+
+2023-04-20T12:05:49+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /Applications/MAMP/htdocs/WP-lektion2/wp-admin/includes/media.php on line 388
+
+2023-04-20T12:24:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /Applications/MAMP/htdocs/WP-lektion2/wp-admin/includes/post.php on line 368
+
+2023-04-20T13:03:09+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /Applications/MAMP/htdocs/WP-lektion2/wp-admin/includes/media.php on line 2798
+
